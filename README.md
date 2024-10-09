@@ -1,2 +1,2 @@
-# PowerBIReport_Customer_Retention
+# PowerBIReport_CustomerRetention
 create a dashboard that visualizes customer demographics and insights
